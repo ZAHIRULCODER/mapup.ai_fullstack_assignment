@@ -1,6 +1,18 @@
 # Real Time Chart visualizer using Websockets and Queue
 
-This project consists of a frontend and backend, both of which can be run locally. Follow the steps below to set up and start each part of the project.
+This project consists of a frontend and backend, both of which can be run locally. Follow the steps below to set up and start each part of the project. (Please try to setup locally and use and download the .csv file and upload)
+
+## Demo credentials
+
+- email: zahirul@gmail.com
+- pass: 123456
+
+---
+
+## Demo credentials
+
+- email: zahirul@gmail.com
+- pass: 123456
 
 ---
 
