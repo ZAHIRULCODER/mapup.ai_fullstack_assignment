@@ -6,9 +6,9 @@ import DashboardLayout from "./components/DashboardLayout";
 import { Toaster } from "react-hot-toast";
 import Dashboard from "./components/Dashboard";
 import DataTable from "./components/DataTable";
-import { useEffect } from "react";
 
-export const socket = io("http://localhost:3000");
+
+export const socket = io("https://mapupbe.onrender.com");
 
 function App() {
 	const isAuthenticated = () => {

@@ -31,7 +31,7 @@ export default function DataTable() {
 		setLoading(true);
 		try {
 			const response = await fetch(
-				`http://localhost:3000/api/v1/data?limit=10${cursor ? `&cursor=${cursor}` : ""}`,
+				`https://mapupbe.onrender.com/api/v1/data?limit=10${cursor ? `&cursor=${cursor}` : ""}`,
 				{
 					headers: {
 						Authorization: localStorage.getItem("token"),
