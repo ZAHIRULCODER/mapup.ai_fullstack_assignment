@@ -13,12 +13,6 @@ This project consists of a frontend and backend, both of which can be run locall
 
 - CSV File Storage: Right now, CSV files are stored directly on the server for processing. A better approach would be to store these files in an Amazon S3 bucket. This would reduce the load on the server, make it easier to manage large files, and improve overall scalability. Storing files in S3 also adds security, durability, and backup features, making the system more reliable and efficient.
 
----
-
-## live URLs for both frontend and backend deployments (Check the code for full URLs)
-
-- FRONTEND URL: https://mapup-ai-frontend.vercel.app/
-- BACKEND URL: https://mapupbe.onrender.com
 
 ---
 
